@@ -1,4 +1,4 @@
-//operating with variables
+//improved version of variables.cpp
 #include <iostream>
 using namespace std;
 int main ()
