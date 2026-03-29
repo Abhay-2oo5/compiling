@@ -7,5 +7,6 @@ int main()
     int b(2);  // initial value 2
     int result; //initial value undetermined
     a = a + 3;
-    cout << a;
+    cout << result; // result is undetermined
+    return 0;
 }
